@@ -18,3 +18,6 @@ let current_volume = 426.57896;
 
 console.log(max_volume / current_volume);
 console.log((max_volume / current_volume) * 100);
+
+let usernames = [`user1`, `user2`, `user3`, `user4`, `user5`];
+let userages = [`25`, `26`, `27`, `28`, `29`];
