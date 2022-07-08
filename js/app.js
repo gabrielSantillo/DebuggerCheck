@@ -21,3 +21,7 @@ console.log((max_volume / current_volume) * 100);
 
 let usernames = [`user1`, `user2`, `user3`, `user4`, `user5`];
 let userages = [`25`, `26`, `27`, `28`, `29`];
+
+let first_user_name = usernames[0];
+let last_user_name = usernames[4];
+let middle_user_age = user_age[2];
