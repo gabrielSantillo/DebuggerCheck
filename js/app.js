@@ -9,3 +9,6 @@ if (username === "admin") {
 } else {
     console.log("Welcome");
 }
+
+console.log(`Hello ${username}`);
+console.log(`You are: ${user_age}`);
